@@ -61,7 +61,7 @@ and give them away.
 
 ![Shivay's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhamit30564-ux&show_icons=true&theme=dark&title_color=d4af37&icon_color=d4af37&bg_color=0a0e17)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhamit30564-ux&layout=compact&theme=dark&title_color=d4af37&bg_color=0a0e17)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhamit30564-ux&layout=compact&theme=dark&title_color=d4af37&bg_color=0a0e17) 
 
 ---
 
