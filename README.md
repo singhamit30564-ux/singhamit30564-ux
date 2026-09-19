@@ -44,6 +44,19 @@ and give them away.
 
 ---
 
+---
+
+## 🎭 Fun Facts About Me
+
+- 📓 **Death Note** fan — *"I'll take a potato chip... and eat it"* 🥔
+- ⚔️ **Attack on Titan** — till the last titan falls! 🕊️
+- 🎵 Coding fuel: **Phonk** (Kordhell, Death Bound on loop)
+- ☕ Black coffee — bitter but necessary (developer coolant)
+- 🌧️ My 7th Sense predicts rain — and it WORKS
+- 💀 I name my bugs before fixing them (they deserve respect)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Shivay's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhamit30564-ux&show_icons=true&theme=dark&title_color=d4af37&icon_color=d4af37&bg_color=0a0e17)
