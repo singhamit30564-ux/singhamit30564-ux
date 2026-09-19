@@ -70,7 +70,7 @@ and give them away.
 Students, developers, researchers from **16 countries** follow this journey — 
 from India to Japan 🇯🇵, Kenya 🇰🇪 to Ukraine 🇺🇦.
 
-*9 followers → 33 in under a month. Built on output, not hype.*
+*9 followers → 35 in under a month. Built on output, not hype.*
 
 ---
 
